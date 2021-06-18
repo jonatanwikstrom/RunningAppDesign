@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B8617231267792FA00EEFB8D /* VRunning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VRunning.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B8617231267792FA00EEFB8D /* OfficialVRunning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OfficialVRunning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8617234267792FA00EEFB8D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8617236267792FA00EEFB8D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B8617238267792FA00EEFB8D /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		B8617232267792FA00EEFB8D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B8617231267792FA00EEFB8D /* VRunning.app */,
+				B8617231267792FA00EEFB8D /* OfficialVRunning.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B8617230267792FA00EEFB8D /* VRunning */ = {
+		B8617230267792FA00EEFB8D /* OfficialVRunning */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B8617245267792FD00EEFB8D /* Build configuration list for PBXNativeTarget "VRunning" */;
+			buildConfigurationList = B8617245267792FD00EEFB8D /* Build configuration list for PBXNativeTarget "OfficialVRunning" */;
 			buildPhases = (
 				B861722D267792FA00EEFB8D /* Sources */,
 				B861722E267792FA00EEFB8D /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = VRunning;
+			name = OfficialVRunning;
 			productName = RunningAppDesign;
-			productReference = B8617231267792FA00EEFB8D /* VRunning.app */;
+			productReference = B8617231267792FA00EEFB8D /* OfficialVRunning.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B861722C267792FA00EEFB8D /* Build configuration list for PBXProject "VRunning" */;
+			buildConfigurationList = B861722C267792FA00EEFB8D /* Build configuration list for PBXProject "OfficialVRunning" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B8617230267792FA00EEFB8D /* VRunning */,
+				B8617230267792FA00EEFB8D /* OfficialVRunning */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B861722C267792FA00EEFB8D /* Build configuration list for PBXProject "VRunning" */ = {
+		B861722C267792FA00EEFB8D /* Build configuration list for PBXProject "OfficialVRunning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B8617243267792FD00EEFB8D /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B8617245267792FD00EEFB8D /* Build configuration list for PBXNativeTarget "VRunning" */ = {
+		B8617245267792FD00EEFB8D /* Build configuration list for PBXNativeTarget "OfficialVRunning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B8617246267792FD00EEFB8D /* Debug */,
